@@ -1,0 +1,42 @@
+{
+  "paragraphs": [
+    "I am a software engineer and technology strategist who moves between shipping code and shaping the business case behind it. My path runs from enterprise SSD firmware at Micron to fulfillment-technology tooling at Amazon, and now to AI market strategy at NYU Stern's Endless Frontier Labs.",
+    "On the build side, I ship consumer-facing products: a conversational food-ordering app with mood detection on Node.js and Gemini 2.5 Flash, and a privacy-first Flutter utility that holds a 5.0 Play Store rating.",
+    "At Micron I held a sub-1-second SLA on firmware activation for Dell and HP, built a centralized test automation framework across 100+ concurrent setups, and onboarded and mentored 10 engineers. I was promoted from Software Engineer to Senior Software Engineer within 24 months.",
+    "Outside of work I was a Mitacs Globalink Research Fellow at ÉTS Montréal and write articles on AI and software engineering for Bootcamp on Medium and dev.to. I am pursuing an MS in Engineering Management at NYU."
+  ],
+  "highlights": [
+    {
+      "label": "Focus",
+      "value": "Full-stack, AI products, strategy"
+    },
+    {
+      "label": "Current",
+      "value": "Technology Analyst, NYU Stern EFL"
+    },
+    {
+      "label": "Base",
+      "value": "Brooklyn, NY"
+    },
+    {
+      "label": "Experience",
+      "value": "2+ years, Micron and Amazon"
+    },
+    {
+      "label": "Degree",
+      "value": "MS Eng. Mgmt, NYU (Expected May 2027)"
+    },
+    {
+      "label": "Fellowship",
+      "value": "Mitacs Globalink, ÉTS Montréal"
+    },
+    {
+      "label": "Publications",
+      "value": "Bootcamp (Medium) and dev.to"
+    },
+    {
+      "label": "Languages",
+      "value": "English, Hindi, French"
+    }
+  ]
+}

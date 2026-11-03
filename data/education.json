@@ -1,0 +1,27 @@
+{
+  "entries": [
+    {
+      "institution": "New York University",
+      "degree": "MS",
+      "field": "Engineering Management",
+      "start": "Sep 2025",
+      "end": "Expected May 2027",
+      "details": [
+        "GPA 3.80 / 4.00; GMAT Focus 655",
+        "Coursework: Financial Strategy, Economics, Machine Learning for Business",
+        "Course Assistant: Corporate Finance"
+      ]
+    },
+    {
+      "institution": "IIIT Bangalore",
+      "degree": "Integrated B.Tech + M.Tech",
+      "field": "Electronics and Communication Engineering (ECE)",
+      "start": "Aug 2018",
+      "end": "Jul 2023",
+      "details": [
+        "GPA 3.50 / 4.00",
+        "Top 1% nationally in JEE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "projects": [
+    {
+      "name": "Intelligent Bistro",
+      "category": "Conversational AI app",
+      "description": "An AI-powered restaurant ordering app that replaces keyword search with natural-language ordering and mood detection. Gemini 2.5 Flash drives the chat assistant and personalized recommendations, with a Node.js and Express backend and a React Native (Expo) frontend.",
+      "highlights": [
+        "Menu of 40 items across 6 cuisines, each tagged by mood for personalized recommendations.",
+        "Detects one of 8 moods from free text and opens with a tailored message plus 2–3 matching dishes.",
+        "Sends the last 6 chat messages with each request so follow-ups like \"yes, add those\" work."
+      ],
+      "technologies": [
+        "React Native",
+        "Expo",
+        "Node.js",
+        "Express",
+        "TypeScript",
+        "Gemini 2.5 Flash",
+        "Zustand"
+      ],
+      "links": {
+        "source": "https://github.com/ishaan1732/intelligent-bistro"
+      },
+      "image": "assets/images/projects/intelligent-bistro.svg",
+      "featured": true,
+      "hero": {
+        "src": "assets/images/projects/intelligent-bistro-hero.jpg",
+        "alt": "Intelligent Bistro — Concept render",
+        "caption": "Concept render"
+      }
+    },
+    {
+      "name": "Hydrate Yourself",
+      "category": "Consumer mobile app",
+      "description": "A consumer health utility built after a competitive analysis of wellness apps surfaced user pain points around advertising and privacy. It is a zero-commercialization Flutter app with fully on-device storage, published on Google Play.",
+      "highlights": [
+        "Shipped to the Google Play Store with a 5.0 rating.",
+        "Zero commercialization: no ads, with all data stored on the device."
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "On-device storage",
+        "Google Play"
+      ],
+      "links": {
+        "source": "https://github.com/ishaan1732/hydrate_yourself",
+        "demo": "https://play.google.com/store/apps/details?id=com.ishaansharma.hydrate_yourself"
+      },
+      "image": "assets/images/projects/hydrate-yourself.svg",
+      "featured": true
+    },
+    {
+      "name": "Financial Forecasting System",
+      "category": "AI research",
+      "description": "NYU graduate research project: a multimodal forecasting platform that pairs financial-news sentiment with S&P 500 price data. Agentic workflows handle automated model evaluation.",
+      "highlights": [
+        "Achieved 73% directional accuracy.",
+        "Designed agentic workflows for automated model evaluation."
+      ],
+      "technologies": [
+        "RAG",
+        "Agentic workflows",
+        "Sentiment analysis",
+        "S&P 500 price data"
+      ],
+      "hero": {
+        "src": "assets/images/projects/financial-forecasting-system-hero.jpg",
+        "alt": "Financial Forecasting System — Concept render",
+        "caption": "Concept render"
+      }
+    },
+    {
+      "name": "mcpgate",
+      "category": "AI security tooling",
+      "description": "A security gateway for the Model Context Protocol that fronts many MCP servers as one. Every tool call passes through OAuth bearer validation, per-client RBAC, rate limits, schema validation and a tamper-evident audit log.",
+      "highlights": [
+        "135 tests with 95.0% branch coverage.",
+        "Tool-definition pinning with a SHA-256 hash quarantines tools whose definitions change after approval."
+      ],
+      "technologies": [
+        "Python",
+        "MCP",
+        "OAuth 2.1",
+        "JWT/JWKS",
+        "RBAC",
+        "Rate limiting"
+      ],
+      "links": {
+        "source": "https://github.com/ishaan1732/mcpgate"
+      },
+      "image": "assets/images/projects/mcpgate.svg",
+      "hero": {
+        "src": "assets/images/projects/mcpgate-hero.jpg",
+        "alt": "mcpgate — Concept render",
+        "caption": "Concept render"
+      }
+    },
+    {
+      "name": "agentguard",
+      "category": "AI security tooling",
+      "description": "A capability-based permission engine for LLM agent tool calls. YAML policies, argument constraints, taint tracking and human approvals sit between the model and its tools, and every decision goes into a hash-chained audit log.",
+      "highlights": [
+        "Ten-stage decision procedure with default-deny, least-privilege grants per task.",
+        "Includes an Ollama-based agent loop, sandboxed fake tools and a scenario suite that checks injected instructions cannot move money or data."
+      ],
+      "technologies": [
+        "Python",
+        "YAML policies",
+        "Ollama",
+        "Taint tracking",
+        "Audit logging"
+      ],
+      "links": {
+        "source": "https://github.com/ishaan1732/agentguard"
+      },
+      "image": "assets/images/projects/agentguard.svg",
+      "hero": {
+        "src": "assets/images/projects/agentguard-hero.jpg",
+        "alt": "agentguard — Concept render",
+        "caption": "Concept render"
+      }
+    },
+    {
+      "name": "planprice",
+      "category": "Developer tools",
+      "description": "An offline Go CLI that prices Terraform plans and diffs monthly cost between two plans from a pinned AWS price snapshot. It outputs PR-ready Markdown and can gate CI on cost increases.",
+      "highlights": [
+        "Embedded 1.8 MB curated price snapshot, so estimates need no network or AWS credentials.",
+        "CI gate exits with code 3 when the monthly increase exceeds a set dollar or percent threshold."
+      ],
+      "technologies": [
+        "Go",
+        "Terraform",
+        "AWS",
+        "CLI",
+        "CI/CD"
+      ],
+      "links": {
+        "source": "https://github.com/ishaan1732/planprice"
+      },
+      "image": "assets/images/projects/planprice.svg",
+      "hero": {
+        "src": "assets/images/projects/planprice-hero.jpg",
+        "alt": "planprice — Concept render",
+        "caption": "Concept render"
+      }
+    },
+    {
+      "name": "dagcache",
+      "category": "Developer tools",
+      "description": "A content-addressed, parallel pipeline runner for reproducible ML workflows. It hashes each stage's code, parameters and input data into a cache key, reruns only what changed, and explains why a stage is stale.",
+      "highlights": [
+        "About 4,600 lines of typed Python with 165 tests.",
+        "Local or S3-compatible remote cache, with lineage tracing for any artifact."
+      ],
+      "technologies": [
+        "Python",
+        "YAML",
+        "SHA-256 hashing",
+        "S3",
+        "Parallel execution"
+      ],
+      "links": {
+        "source": "https://github.com/ishaan1732/dagcache"
+      },
+      "image": "assets/images/projects/dagcache.svg",
+      "hero": {
+        "src": "assets/images/projects/dagcache-hero.jpg",
+        "alt": "dagcache — Concept render",
+        "caption": "Concept render"
+      }
+    },
+    {
+      "name": "Spotify Listening Analytics",
+      "category": "Data platform",
+      "description": "A data engineering platform that pulls personal Spotify listening history, playlists and audio features via OAuth 2.0. It builds a dimensional model in Snowflake with SCD Type 2 tracking and serves a Streamlit dashboard.",
+      "highlights": [
+        "Dashboard covers genre evolution, a mood heatmap, an audio-feature radar and top artists and tracks.",
+        "13 unit tests cover OAuth, pagination, sessionization and rate-limit handling."
+      ],
+      "technologies": [
+        "Python",
+        "Snowflake",
+        "dbt",
+        "Streamlit",
+        "Airflow",
+        "Spotify API"
+      ],
+      "links": {
+        "source": "https://github.com/ishaan1732/spotify-listening-analytics"
+      },
+      "image": "assets/images/projects/spotify-listening-analytics.svg",
+      "hero": {
+        "src": "assets/images/projects/spotify-listening-analytics-hero.jpg",
+        "alt": "Spotify Listening Analytics — Concept render",
+        "caption": "Concept render"
+      }
+    },
+    {
+      "name": "Weather Data Pipeline",
+      "category": "Data platform",
+      "description": "A weather data pipeline that collects hourly observations for 50+ global cities from the Open-Meteo API. It validates each batch with Great Expectations and transforms data with dbt into analytics-ready BigQuery tables.",
+      "highlights": [
+        "Quality gates halt the pipeline and send a Slack alert when validation fails.",
+        "21 unit tests pass; hourly runs are orchestrated with Prefect."
+      ],
+      "technologies": [
+        "Python",
+        "BigQuery",
+        "dbt",
+        "Great Expectations",
+        "Prefect",
+        "Open-Meteo API"
+      ],
+      "links": {
+        "source": "https://github.com/ishaan1732/weather-data-pipeline-great-expectations"
+      },
+      "image": "assets/images/projects/weather-data-pipeline.svg",
+      "hero": {
+        "src": "assets/images/projects/weather-data-pipeline-hero.jpg",
+        "alt": "Weather Data Pipeline — Concept render",
+        "caption": "Concept render"
+      }
+    }
+  ]
+}

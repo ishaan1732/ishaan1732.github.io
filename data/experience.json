@@ -1,0 +1,69 @@
+{
+  "roles": [
+    {
+      "company": "TEAMSEC | NYU Stern Endless Frontier Labs",
+      "logo": "assets/images/logos/nyu-stern.svg",
+      "title": "Technology Analyst",
+      "start": "Sep 2026",
+      "end": "Present",
+      "location": "New York, NY",
+      "description": "Securitization infrastructure venture at NYU Stern's Endless Frontier Labs, where I turn AI and data technology into market-entry strategy and product roadmaps.",
+      "highlights": [
+        "Own the US market-entry workstream for an AI platform, building a bottom-up TAM/SAM/SOM model to size the opportunity and recommend a target segment.",
+        "Evaluate the platform's AI and data architecture against market requirements, assess data readiness, and translate gaps into a prioritized roadmap for the founder and product team."
+      ],
+      "technologies": [
+        "AI",
+        "Data architecture",
+        "TAM/SAM/SOM market sizing"
+      ]
+    },
+    {
+      "company": "Micron Technology",
+      "logo": "assets/images/logos/micron.png",
+      "title": "Senior Software Engineer",
+      "start": "Jul 2023",
+      "end": "Jul 2025",
+      "location": "Bangalore, India",
+      "description": "Enterprise Solid State Drive (SSD) firmware engineering, delivering for Fortune 500 clients. Promoted from Software Engineer within 24 months.",
+      "highlights": [
+        "Held a sub-1-second SLA window on firmware activation for enterprise SSDs (4TB to 128TB) shipped to Dell and HP, enabling zero-disruption upgrades in live production environments.",
+        "Cut the open defect backlog by 10% and improved release-date predictability by leading root-cause diagnostics with product validation teams and client engineers on integration failures.",
+        "Recovered ~2 weeks of recurring manual engineering effort by designing a centralized test automation framework standardized across 100+ concurrent setups.",
+        "Onboarded and mentored 10 engineers, building the onboarding curriculum and knowledge base from scratch and reducing time-to-productivity by 75%.",
+        "Synchronized offshore delivery with US product leadership across a 12-hour gap, translating executive roadmap priorities into local engineering scope."
+      ],
+      "technologies": [
+        "SSD firmware",
+        "Test automation"
+      ],
+      "earlier": [
+        {
+          "title": "Software Engineer",
+          "start": "Jul 2023"
+        }
+      ]
+    },
+    {
+      "company": "Amazon",
+      "logo": "assets/images/logos/amazon.svg",
+      "title": "Software Development Engineer Intern",
+      "start": "Jan 2023",
+      "end": "Jun 2023",
+      "location": "Gurgaon, India",
+      "description": "Fulfillment Technologies internship working on internal web applications and automation dashboards.",
+      "highlights": [
+        "Drove a 30% reduction in device downtime across 150+ fulfillment centers by gathering requirements with senior operations leaders and redesigning automation dashboards around a new error-to-success ratio metric.",
+        "Shipped feature enhancements on internal web applications, owning the full cycle of requirement analysis, testing, risk evaluation and phased production rollout in an Agile cross-functional team."
+      ],
+      "technologies": [
+        "AWS EC2",
+        "AWS S3",
+        "AWS Lambda",
+        "AWS SNS",
+        "AWS SQS",
+        "AWS CloudFormation"
+      ]
+    }
+  ]
+}

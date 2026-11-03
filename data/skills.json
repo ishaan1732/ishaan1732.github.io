@@ -1,0 +1,67 @@
+{
+  "groups": [
+    {
+      "name": "Web & Mobile",
+      "items": [
+        "TypeScript",
+        "React",
+        "React Native",
+        "Expo",
+        "Node.js",
+        "Express",
+        "Flutter",
+        "Dart"
+      ]
+    },
+    {
+      "name": "Programming & Data",
+      "items": [
+        "Python",
+        "SQL",
+        "Advanced Excel",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "AI & Technical",
+      "items": [
+        "Generative AI",
+        "Machine learning",
+        "LLM and agentic workflows",
+        "RAG",
+        "LangChain",
+        "Prompt engineering",
+        "Model evaluation",
+        "Process automation",
+        "Data privacy",
+        "AI-assisted development (Claude Code)"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "items": [
+        "AWS EC2",
+        "AWS S3",
+        "AWS Lambda",
+        "AWS SNS",
+        "AWS SQS",
+        "AWS CloudFormation"
+      ]
+    },
+    {
+      "name": "Strategy & Delivery",
+      "items": [
+        "Structured problem-solving",
+        "Use case definition",
+        "Business case development",
+        "Roadmapping",
+        "Market sizing (TAM/SAM/SOM)",
+        "KPI and metric definition",
+        "Stakeholder management",
+        "Cross-functional delivery",
+        "Agile",
+        "Low-code prototyping"
+      ]
+    }
+  ]
+}

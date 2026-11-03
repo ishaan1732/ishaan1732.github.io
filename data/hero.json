@@ -1,0 +1,51 @@
+{
+  "name": "Ishaan Sachdeva",
+  "title": "Full-Stack Software Engineer and Technology Strategist",
+  "summary": "Software engineer and technology strategist with 2+ years of experience across enterprise tech and consumer-facing platforms at Micron and Amazon. I build AI-powered applications end to end. At NYU Stern's Endless Frontier Labs I translate emerging AI and data technologies into business cases and execution roadmaps.",
+  "location": "Brooklyn, NY",
+  "photo": {
+    "src": "assets/images/ishaan-sachdeva.jpg",
+    "alt": "Portrait of Ishaan Sachdeva"
+  },
+  "readouts": [
+    {
+      "value": "30%",
+      "label": "lower device downtime, 150+ Amazon centers"
+    },
+    {
+      "value": "75%",
+      "label": "shorter time-to-productivity at Micron"
+    },
+    {
+      "value": "sub-1s",
+      "label": "firmware activation SLA for Dell and HP"
+    },
+    {
+      "value": "73%",
+      "label": "directional accuracy, forecasting system"
+    }
+  ],
+  "ctas": [
+    {
+      "label": "View projects",
+      "href": "#projects",
+      "kind": "primary"
+    },
+    {
+      "label": "Résumé",
+      "href": "assets/files/ishaan-sachdeva-resume.pdf",
+      "kind": "resume"
+    },
+    {
+      "label": "Get in touch",
+      "href": "#contact",
+      "kind": "secondary"
+    }
+  ],
+  "social": {
+    "github": "https://github.com/ishaan1732",
+    "linkedin": "https://www.linkedin.com/in/ishaansachdeva28/",
+    "email": "is3269@nyu.edu",
+    "phone": "+1 551-328-7284"
+  }
+}
